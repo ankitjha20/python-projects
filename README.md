@@ -37,27 +37,6 @@ For Ubuntu/Debian:
 sudo apt-get install portaudio19-dev
 pip install pyaudio
 
-📁 Project Structure
-voice-assistant/
-│
-├── main.py                # Main script containing all functionalities
-├── README.md              # Project documentation
-└── requirements.txt       # (Optional) Python dependencies
-
-⚙️ Setup Instructions
-
-Clone the Repository
-
-git clone https://github.com/<your-username>/voice-assistant.git
-cd voice-assistant
-
-
-Install Required Packages
-
-pip install -r requirements.txt
-
-
-(or manually install the listed dependencies above)
 
 Update Email Credentials
 In the sendEmail function of main.py, replace:
